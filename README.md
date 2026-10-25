@@ -1,0 +1,1 @@
+# Textminning_logserver
